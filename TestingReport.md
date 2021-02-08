@@ -7,18 +7,17 @@
 На тестирование затрачено: 27 минут
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Nadine0109/KeyValidatortesting/issues/1
-* https://github.com/Nadine0109/KeyValidatortesting/issues/2
-* https://github.com/Nadine0109/KeyValidatortesting/issues/3 
+* [Два ключа из списка валидных распознаются как невалидные](https://github.com/Nadine0109/KeyValidatortesting/issues/1)
+* [Ключ из списка невалидных распознаётся как валидный](https://github.com/Nadine0109/KeyValidatortesting/issues/3)
 
 ## Описание процесса тестирования
 Для тестирования программы были предоставлены списки валидных и невалидных ключей. При запуске программы производилась проверка предоставленных ключей на соответсвие ожидаемому результату. 
 
 В тестировании имеются следующие артефакты:
 * отчёт о тестировании
-* 3 баг репорта
+* 2 баг репорта
   
-Тестовые данные взяты со страницы с заданием https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md:
+Тестовые данные взяты со страницы с [заданием](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
 
 * Список валидных ключей: 
 * 8f05e6a7-70e9-33d7-bfe7-b19eae0d8998 (ОР -OK)
